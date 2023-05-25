@@ -1,5 +1,7 @@
-openai.com
-ai.com
-browser-intake-datadoghq.com
-api.revenuecat.com
-ingest.sentry.io
+# openai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,ai.com
+# chatGPT ios
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,api.revenuecat.com
+DOMAIN-SUFFIX,ingest.sentry.io
