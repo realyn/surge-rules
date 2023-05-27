@@ -4,4 +4,4 @@ DOMAIN-SUFFIX,ai.com
 # chatGPT ios
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,api.revenuecat.com
-DOMAIN-SUFFIX,ingest.sentry.io
+DOMAIN-SUFFIX,sentry.io
