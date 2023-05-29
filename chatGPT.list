@@ -1,6 +1,7 @@
 # openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
+DOMAIN,nexus-websocket-a.intercom.io
 # chatGPT ios
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,api.revenuecat.com
