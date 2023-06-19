@@ -1,2 +1,2 @@
 payload:
-  - '+.openai.com'
+  - '+.a1.mzstatic.com'
