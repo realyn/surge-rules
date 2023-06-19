@@ -1,4 +1,13 @@
 payload:
+  - '*.openai.com'
+  - '*.ai.com'
+  - 'nexus-websocket-a.intercom.io'
+  - 'chat.openai.com.cdn.cloudflare.net'
+  - '*.openaiapi-site.azureedge.net'
+  - '*.stripe.com'
+  - 'browser-intake-datadoghq.com'
+  - 'api.revenuecat.com'
+  - '*.sentry.io'
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN,nexus-websocket-a.intercom.io
