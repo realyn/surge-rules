@@ -9,7 +9,7 @@ payload:
   - DOMAIN,browser-intake-datadoghq.com
   - DOMAIN,api.revenuecat.com
   - DOMAIN-SUFFIX,sentry.io
-  - DOMAIN-KEYWORD,(?i)openai
+  - DOMAIN-KEYWORD,openai
 
 
 
