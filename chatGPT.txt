@@ -8,3 +8,4 @@ payload:
   - 'browser-intake-datadoghq.com'
   - 'api.revenuecat.com'
   - '*.sentry.io'
+  - 'openaicom-api*.azurefd.net'
