@@ -1,7 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,ai.com
-  - DOMAIN,nexus-websocket-a.intercom.io
+#  - DOMAIN,nexus-websocket-a.intercom.io
   - DOMAIN,chat.openai.com.cdn.cloudflare.net
   - DOMAIN,openaiapi-site.azureedge.net
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
@@ -10,6 +10,7 @@ payload:
   - DOMAIN,api.revenuecat.com
   - DOMAIN-SUFFIX,sentry.io
   - DOMAIN-KEYWORD,openai
+  - DOMAIN-SUFFIX,intercom.io
 
 
 
