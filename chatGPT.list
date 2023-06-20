@@ -1,7 +1,7 @@
 # openai
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,ai.com
-DOMAIN,nexus-websocket-a.intercom.io
+DOMAIN-SUFFIX,intercom.io
 DOMAIN,chat.openai.com.cdn.cloudflare.net
 DOMAIN,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
