@@ -17,6 +17,10 @@ payload:
   - DOMAIN-SUFFIX,poe.com
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,sentry.io
+  - DOMAIN-SUFFIX,statsigapi.net
+  - DOMAIN-SUFFIX,cdn.oaistatic.com
+  - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+#   - DOMAIN-SUFFIX,livekit.cloud
 
 
 
