@@ -20,6 +20,8 @@ payload:
   - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,cdn.oaistatic.com
   - DOMAIN-SUFFIX,chatgpt.livekit.cloud
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
 #   - DOMAIN-SUFFIX,livekit.cloud
 
 
