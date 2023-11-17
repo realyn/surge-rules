@@ -1,6 +1,7 @@
 # adobe
 
 DOMAIN,crs.cr.adobe.com
+DOMAIN,hbrcv.adobe.com
 DOMAIN,hbrt.adobe.com
 DOMAIN,images-tv.adobe.com
 DOMAIN,udps.adobe.com
@@ -13,4 +14,5 @@ DOMAIN-SUFFIX,adobe.io
 # DOMAIN-SUFFIX,platform-cs-jpn3.adobe.io
 # DOMAIN-SUFFIX,platform-cs.adobe.io
 DOMAIN-SUFFIX,adobelogin.com
+
 
