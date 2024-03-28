@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,api.revenuecat.com
 DOMAIN-SUFFIX,sentry.io
+DOMAIN,api.statsig.com 
 # live
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,cdn.oaistatic.com
