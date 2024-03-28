@@ -18,6 +18,11 @@ DOMAIN-SUFFIX,poe.com
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,segment.io
 # chatGPT ios
 DOMAIN,browser-intake-datadoghq.com
 DOMAIN,api.revenuecat.com
@@ -27,4 +32,9 @@ DOMAIN,api.statsig.com
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,cdn.oaistatic.com
 DOMAIN-SUFFIX,chatgpt.livekit.cloud
+# DOMAIN-SUFFIX,host.livekit.cloud
+# DOMAIN-SUFFIX,turn.livekit.cloud
 # DOMAIN-SUFFIX,livekit.cloud
+IP-CIDR,24.199.123.28/32
+IP-CIDR,64.23.132.171/32
+IP-ASN,20473
