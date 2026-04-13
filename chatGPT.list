@@ -24,10 +24,11 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,launchdarkly.com
 DOMAIN-SUFFIX,segment.io
 # chatGPT ios
-DOMAIN,browser-intake-datadoghq.com
+DOMAIN-KEYWORD,datadoghq
 DOMAIN,api.revenuecat.com
 DOMAIN-SUFFIX,sentry.io
-DOMAIN,api.statsig.com 
+DOMAIN,api.statsig.com
+DOMAIN-KEYWORD,statsig
 # live
 DOMAIN-SUFFIX,statsigapi.net
 DOMAIN-SUFFIX,cdn.oaistatic.com
