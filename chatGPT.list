@@ -40,5 +40,6 @@ IP-CIDR,24.199.123.28/32
 IP-CIDR,64.23.132.171/32
 IP-ASN,20473
 # claude
+# 反欺诈/防机器操作 平台
 DOMAIN-SUFFIX,siftscience.com
 DOMAIN-KEYWORD,siftscience
